@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636977901 source:c:\users\juhas\desktop\proggyak\08_rendezes_gyak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
